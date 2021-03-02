@@ -1,2 +1,1 @@
-# my-tower-seige-1
-game
+# TowerSiege-1
